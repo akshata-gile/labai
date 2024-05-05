@@ -1,0 +1,1 @@
+Define the main function to diagnose the disease based on symptoms
